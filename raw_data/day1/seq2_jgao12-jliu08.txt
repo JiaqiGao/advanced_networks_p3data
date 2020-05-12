@@ -1,0 +1,438 @@
+Sequence 2 Active Measurements
+
+[05-12-2020 15:36:43]
+
+=====================================================
+ 1  192.168.0.1 (192.168.0.1)  1.144 ms  0.601 ms  0.546 ms
+ 2  * cpe-67-245-144-1.nyc.res.rr.com (67.245.144.1)  21.202 ms  20.060 ms
+ 3  68.173.197.190 (68.173.197.190)  15.203 ms  14.904 ms  7.273 ms
+ 4  68.173.199.162 (68.173.199.162)  20.838 ms  16.413 ms  38.055 ms
+ 5  bu-ether15.nycmny837aw-bcr00.tbone.rr.com (66.109.6.76)  14.954 ms  15.712 ms  16.115 ms
+ 6  72.14.218.108 (72.14.218.108)  18.328 ms  13.603 ms  16.612 ms
+ 7  108.170.233.62 (108.170.233.62)  10.456 ms  16.283 ms  17.967 ms
+ 8  172.253.69.227 (172.253.69.227)  15.355 ms  15.974 ms  10.363 ms
+ 9  lga25s62-in-f14.1e100.net (172.217.12.174)  27.346 ms  8.676 ms  15.272 ms
+***********************
+PING youtube-ui.l.google.com (172.217.12.174): 56 data bytes
+64 bytes from 172.217.12.174: icmp_seq=0 ttl=55 time=12.813 ms
+64 bytes from 172.217.12.174: icmp_seq=1 ttl=55 time=11.175 ms
+64 bytes from 172.217.12.174: icmp_seq=2 ttl=55 time=14.422 ms
+64 bytes from 172.217.12.174: icmp_seq=3 ttl=55 time=14.706 ms
+64 bytes from 172.217.12.174: icmp_seq=4 ttl=55 time=11.896 ms
+64 bytes from 172.217.12.174: icmp_seq=5 ttl=55 time=15.936 ms
+64 bytes from 172.217.12.174: icmp_seq=6 ttl=55 time=15.122 ms
+64 bytes from 172.217.12.174: icmp_seq=7 ttl=55 time=12.672 ms
+64 bytes from 172.217.12.174: icmp_seq=8 ttl=55 time=16.190 ms
+64 bytes from 172.217.12.174: icmp_seq=9 ttl=55 time=14.597 ms
+
+--- youtube-ui.l.google.com ping statistics ---
+10 packets transmitted, 10 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 11.175/13.953/16.190/1.625 ms
+***********************
+    time_namelookup:  0.015871s
+       time_connect:  1.033543s
+    time_appconnect:  1.097488s
+   time_pretransfer:  1.098265s
+      time_redirect:  0.000000s
+ time_starttransfer:  1.167379s
+                    ----------
+         time_total:  1.904589s
+#######################
+    time_namelookup:  0.005151s
+       time_connect:  0.034643s
+    time_appconnect:  0.096928s
+   time_pretransfer:  0.097028s
+      time_redirect:  0.000000s
+ time_starttransfer:  0.168627s
+                    ----------
+         time_total:  0.952880s
+#######################
+    time_namelookup:  0.012811s
+       time_connect:  0.028827s
+    time_appconnect:  0.084505s
+   time_pretransfer:  0.084615s
+      time_redirect:  0.000000s
+ time_starttransfer:  0.156287s
+                    ----------
+         time_total:  0.878094s
+#######################
+***********************
+ 1  192.168.0.1 (192.168.0.1)  0.952 ms  0.588 ms  0.504 ms
+ 2  cpe-67-245-144-1.nyc.res.rr.com (67.245.144.1)  10.146 ms  11.814 ms  17.149 ms
+ 3  68.173.197.190 (68.173.197.190)  9.888 ms  10.521 ms  14.180 ms
+ 4  68.173.199.162 (68.173.199.162)  21.939 ms  22.656 ms  16.218 ms
+ 5  bu-ether15.nycmny837aw-bcr00.tbone.rr.com (66.109.6.76)  14.074 ms  15.470 ms  24.978 ms
+ 6  72.14.218.108 (72.14.218.108)  13.100 ms  15.280 ms  12.013 ms
+ 7  108.170.233.62 (108.170.233.62)  25.297 ms  14.325 ms  44.286 ms
+ 8  172.253.69.227 (172.253.69.227)  18.444 ms  14.123 ms  15.264 ms
+ 9  lga25s62-in-f14.1e100.net (172.217.12.174)  16.184 ms  11.630 ms  10.649 ms
+***********************
+PING youtube-ui.l.google.com (172.217.12.174): 56 data bytes
+64 bytes from 172.217.12.174: icmp_seq=0 ttl=55 time=18.948 ms
+64 bytes from 172.217.12.174: icmp_seq=1 ttl=55 time=14.167 ms
+64 bytes from 172.217.12.174: icmp_seq=2 ttl=55 time=15.973 ms
+64 bytes from 172.217.12.174: icmp_seq=3 ttl=55 time=13.941 ms
+64 bytes from 172.217.12.174: icmp_seq=4 ttl=55 time=14.181 ms
+64 bytes from 172.217.12.174: icmp_seq=5 ttl=55 time=27.127 ms
+64 bytes from 172.217.12.174: icmp_seq=6 ttl=55 time=14.034 ms
+64 bytes from 172.217.12.174: icmp_seq=7 ttl=55 time=16.200 ms
+64 bytes from 172.217.12.174: icmp_seq=8 ttl=55 time=14.851 ms
+64 bytes from 172.217.12.174: icmp_seq=9 ttl=55 time=30.969 ms
+
+--- youtube-ui.l.google.com ping statistics ---
+10 packets transmitted, 10 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 13.941/18.039/30.969/5.754 ms
+=====================================================
+ 1  192.168.0.1 (192.168.0.1)  0.960 ms  0.422 ms  0.412 ms
+ 2  * cpe-67-245-144-1.nyc.res.rr.com (67.245.144.1)  16.702 ms  11.341 ms
+ 3  68.173.197.188 (68.173.197.188)  13.743 ms  12.178 ms  14.144 ms
+ 4  68.173.197.182 (68.173.197.182)  22.728 ms  22.932 ms  15.943 ms
+ 5  bu-ether19.nwrknjmd67w-bcr00.tbone.rr.com (66.109.6.78)  15.703 ms  22.897 ms  24.168 ms
+ 6  bu-ether12.nycmny837aw-bcr00.tbone.rr.com (66.109.6.27)  19.272 ms  16.685 ms  23.101 ms
+ 7  66.109.5.119 (66.109.5.119)  12.544 ms  16.857 ms  30.857 ms
+ 8  24.30.200.39 (24.30.200.39)  15.980 ms  17.936 ms  23.644 ms
+ 9  ae1.r01.lga01.icn.netarch.akamai.com (23.203.156.34)  80.561 ms  94.944 ms  86.482 ms
+10  ae1.r02.lga01.ien.netarch.akamai.com (23.203.156.37)  43.849 ms  27.854 ms  37.521 ms
+11  ae0.r04.lga01.ien.netarch.akamai.com (23.203.156.45)  18.332 ms  18.663 ms  16.154 ms
+12  po4.verio-ewr4.netarch.akamai.com (23.203.156.234)  14.433 ms  15.734 ms  16.254 ms
+13  a23-194-177-14.deploy.static.akamaitechnologies.com (23.194.177.14)  13.035 ms  19.442 ms  15.761 ms
+***********************
+PING e4373.x.akamaiedge.net (23.194.177.14): 56 data bytes
+64 bytes from 23.194.177.14: icmp_seq=0 ttl=54 time=14.773 ms
+64 bytes from 23.194.177.14: icmp_seq=1 ttl=54 time=19.215 ms
+64 bytes from 23.194.177.14: icmp_seq=2 ttl=54 time=20.329 ms
+64 bytes from 23.194.177.14: icmp_seq=3 ttl=54 time=11.102 ms
+64 bytes from 23.194.177.14: icmp_seq=4 ttl=54 time=17.989 ms
+64 bytes from 23.194.177.14: icmp_seq=5 ttl=54 time=13.644 ms
+64 bytes from 23.194.177.14: icmp_seq=6 ttl=54 time=15.391 ms
+64 bytes from 23.194.177.14: icmp_seq=7 ttl=54 time=13.760 ms
+64 bytes from 23.194.177.14: icmp_seq=8 ttl=54 time=16.168 ms
+64 bytes from 23.194.177.14: icmp_seq=9 ttl=54 time=16.103 ms
+
+--- e4373.x.akamaiedge.net ping statistics ---
+10 packets transmitted, 10 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 11.102/15.847/20.329/2.632 ms
+***********************
+    time_namelookup:  0.005096s
+       time_connect:  0.018664s
+    time_appconnect:  0.078751s
+   time_pretransfer:  0.078902s
+      time_redirect:  0.000000s
+ time_starttransfer:  0.526450s
+                    ----------
+         time_total:  0.526480s
+#######################
+    time_namelookup:  0.004272s
+       time_connect:  0.030711s
+    time_appconnect:  0.075121s
+   time_pretransfer:  0.075277s
+      time_redirect:  0.000000s
+ time_starttransfer:  0.517595s
+                    ----------
+         time_total:  0.517605s
+#######################
+    time_namelookup:  0.004994s
+       time_connect:  0.032702s
+    time_appconnect:  0.082194s
+   time_pretransfer:  0.082340s
+      time_redirect:  0.000000s
+ time_starttransfer:  0.512643s
+                    ----------
+         time_total:  0.512663s
+#######################
+***********************
+ 1  192.168.0.1 (192.168.0.1)  0.727 ms  0.450 ms  0.432 ms
+ 2  cpe-67-245-144-1.nyc.res.rr.com (67.245.144.1)  22.248 ms  18.188 ms  14.229 ms
+ 3  68.173.197.188 (68.173.197.188)  11.325 ms  22.961 ms  14.552 ms
+ 4  68.173.197.182 (68.173.197.182)  17.239 ms  15.050 ms  16.923 ms
+ 5  bu-ether19.nwrknjmd67w-bcr00.tbone.rr.com (66.109.6.78)  23.479 ms  14.473 ms  16.131 ms
+ 6  bu-ether12.nycmny837aw-bcr00.tbone.rr.com (66.109.6.27)  20.816 ms  14.707 ms  17.070 ms
+ 7  66.109.5.119 (66.109.5.119)  18.954 ms *  28.006 ms
+ 8  24.30.200.39 (24.30.200.39)  13.093 ms  22.157 ms  40.038 ms
+ 9  ae1.r01.lga01.icn.netarch.akamai.com (23.203.156.34)  84.039 ms  84.877 ms  82.410 ms
+10  * * ae1.r02.lga01.ien.netarch.akamai.com (23.203.156.37)  30.187 ms
+11  ae0.r04.lga01.ien.netarch.akamai.com (23.203.156.45)  15.969 ms  17.525 ms  20.894 ms
+12  po4.verio-ewr4.netarch.akamai.com (23.203.156.234)  16.400 ms  18.885 ms  10.117 ms
+13  a23-194-177-14.deploy.static.akamaitechnologies.com (23.194.177.14)  10.265 ms  15.500 ms  18.813 ms
+***********************
+PING e4373.x.akamaiedge.net (23.194.177.14): 56 data bytes
+64 bytes from 23.194.177.14: icmp_seq=0 ttl=54 time=15.984 ms
+64 bytes from 23.194.177.14: icmp_seq=1 ttl=54 time=17.830 ms
+64 bytes from 23.194.177.14: icmp_seq=2 ttl=54 time=24.738 ms
+64 bytes from 23.194.177.14: icmp_seq=3 ttl=54 time=11.077 ms
+64 bytes from 23.194.177.14: icmp_seq=4 ttl=54 time=16.766 ms
+64 bytes from 23.194.177.14: icmp_seq=5 ttl=54 time=13.823 ms
+64 bytes from 23.194.177.14: icmp_seq=6 ttl=54 time=34.051 ms
+64 bytes from 23.194.177.14: icmp_seq=7 ttl=54 time=19.078 ms
+64 bytes from 23.194.177.14: icmp_seq=8 ttl=54 time=17.586 ms
+64 bytes from 23.194.177.14: icmp_seq=9 ttl=54 time=14.261 ms
+
+--- e4373.x.akamaiedge.net ping statistics ---
+10 packets transmitted, 10 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 11.077/18.519/34.051/6.218 ms
+=====================================================
+ 1  192.168.0.1 (192.168.0.1)  1.139 ms  0.611 ms  0.655 ms
+ 2  * cpe-67-245-144-1.nyc.res.rr.com (67.245.144.1)  16.936 ms  13.376 ms
+ 3  68.173.197.190 (68.173.197.190)  13.358 ms  11.839 ms  15.588 ms
+ 4  68.173.199.162 (68.173.199.162)  25.003 ms  22.185 ms  15.498 ms
+ 5  bu-ether25.nycmny837aw-bcr00.tbone.rr.com (107.14.19.22)  19.493 ms  24.197 ms  15.700 ms
+ 6  bu-ether11.nwrknjmd67w-bcr00.tbone.rr.com (66.109.6.26)  27.228 ms  25.597 ms  15.756 ms
+ 7  99.82.177.216 (99.82.177.216)  14.880 ms  18.144 ms  14.112 ms
+ 8  52.93.59.104 (52.93.59.104)  17.939 ms  16.028 ms  37.919 ms
+ 9  52.93.59.185 (52.93.59.185)  9.592 ms  24.640 ms  18.459 ms
+10  * * *
+11  * * *
+12  * * *
+13  * * *
+14  * * *
+15  server-143-204-146-8.ewr52.r.cloudfront.net (143.204.146.8)  14.153 ms  15.399 ms  17.982 ms
+***********************
+PING e15316.e22.akamaiedge.net (104.78.191.236): 56 data bytes
+Request timeout for icmp_seq 0
+64 bytes from 104.78.191.236: icmp_seq=1 ttl=56 time=15.325 ms
+64 bytes from 104.78.191.236: icmp_seq=2 ttl=56 time=17.461 ms
+64 bytes from 104.78.191.236: icmp_seq=3 ttl=56 time=13.727 ms
+64 bytes from 104.78.191.236: icmp_seq=4 ttl=56 time=17.060 ms
+64 bytes from 104.78.191.236: icmp_seq=5 ttl=56 time=27.491 ms
+64 bytes from 104.78.191.236: icmp_seq=6 ttl=56 time=16.628 ms
+64 bytes from 104.78.191.236: icmp_seq=7 ttl=56 time=12.370 ms
+64 bytes from 104.78.191.236: icmp_seq=8 ttl=56 time=30.727 ms
+64 bytes from 104.78.191.236: icmp_seq=9 ttl=56 time=13.033 ms
+
+--- e15316.e22.akamaiedge.net ping statistics ---
+10 packets transmitted, 9 packets received, 10.0% packet loss
+round-trip min/avg/max/stddev = 12.370/18.202/30.727/6.115 ms
+***********************
+    time_namelookup:  0.005197s
+       time_connect:  0.026749s
+    time_appconnect:  0.082196s
+   time_pretransfer:  0.082294s
+      time_redirect:  0.000000s
+ time_starttransfer:  0.123129s
+                    ----------
+         time_total:  0.123296s
+#######################
+    time_namelookup:  0.004963s
+       time_connect:  0.023188s
+    time_appconnect:  0.078808s
+   time_pretransfer:  0.078948s
+      time_redirect:  0.000000s
+ time_starttransfer:  0.135396s
+                    ----------
+         time_total:  0.135617s
+#######################
+    time_namelookup:  0.005162s
+       time_connect:  0.026058s
+    time_appconnect:  0.081044s
+   time_pretransfer:  0.081216s
+      time_redirect:  0.000000s
+ time_starttransfer:  0.121669s
+                    ----------
+         time_total:  0.121818s
+#######################
+***********************
+ 1  192.168.0.1 (192.168.0.1)  0.814 ms  0.415 ms  0.408 ms
+ 2  cpe-67-245-144-1.nyc.res.rr.com (67.245.144.1)  16.472 ms  18.789 ms  18.938 ms
+ 3  68.173.197.190 (68.173.197.190)  15.512 ms  7.802 ms  11.390 ms
+ 4  68.173.199.162 (68.173.199.162)  14.385 ms  22.589 ms  15.917 ms
+ 5  bu-ether15.nycmny837aw-bcr00.tbone.rr.com (66.109.6.76)  15.387 ms  15.159 ms  24.486 ms
+ 6  66.109.5.119 (66.109.5.119)  13.712 ms  33.227 ms *
+ 7  24.30.200.39 (24.30.200.39)  18.046 ms  14.380 ms  12.347 ms
+ 8  ae2.coresite-ewr3.netarch.akamai.com (23.203.156.177)  30.729 ms  22.317 ms  17.651 ms
+ 9  a104-78-191-236.deploy.static.akamaitechnologies.com (104.78.191.236)  7.509 ms  13.832 ms  14.622 ms
+***********************
+PING e15316.e22.akamaiedge.net (104.78.191.236): 56 data bytes
+64 bytes from 104.78.191.236: icmp_seq=0 ttl=56 time=14.310 ms
+64 bytes from 104.78.191.236: icmp_seq=1 ttl=56 time=15.001 ms
+64 bytes from 104.78.191.236: icmp_seq=2 ttl=56 time=15.889 ms
+64 bytes from 104.78.191.236: icmp_seq=3 ttl=56 time=16.695 ms
+64 bytes from 104.78.191.236: icmp_seq=4 ttl=56 time=18.154 ms
+64 bytes from 104.78.191.236: icmp_seq=5 ttl=56 time=15.347 ms
+64 bytes from 104.78.191.236: icmp_seq=6 ttl=56 time=16.091 ms
+64 bytes from 104.78.191.236: icmp_seq=7 ttl=56 time=16.281 ms
+64 bytes from 104.78.191.236: icmp_seq=8 ttl=56 time=15.869 ms
+64 bytes from 104.78.191.236: icmp_seq=9 ttl=56 time=17.130 ms
+
+--- e15316.e22.akamaiedge.net ping statistics ---
+10 packets transmitted, 10 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 14.310/16.077/18.154/1.036 ms
+=====================================================
+ 1  192.168.0.1 (192.168.0.1)  1.203 ms  0.665 ms  0.536 ms
+ 2  * cpe-67-245-144-1.nyc.res.rr.com (67.245.144.1)  28.540 ms  10.705 ms
+ 3  68.173.197.190 (68.173.197.190)  18.127 ms  4.895 ms  9.106 ms
+ 4  68.173.199.162 (68.173.199.162)  17.214 ms  14.930 ms  23.856 ms
+ 5  bu-ether15.nycmny837aw-bcr00.tbone.rr.com (66.109.6.76)  19.238 ms  15.589 ms  24.225 ms
+ 6  bu-ether11.nwrknjmd67w-bcr00.tbone.rr.com (66.109.6.26)  16.891 ms  16.165 ms  22.936 ms
+ 7  99.82.177.216 (99.82.177.216)  13.475 ms  13.692 ms  14.829 ms
+ 8  52.93.59.72 (52.93.59.72)  17.246 ms  16.097 ms  15.275 ms
+ 9  52.93.59.181 (52.93.59.181)  14.188 ms  26.367 ms  15.154 ms
+10  * * *
+11  * * *
+12  * * *
+13  * * *
+14  * * *
+15  server-143-204-143-29.ewr52.r.cloudfront.net (143.204.143.29)  16.818 ms  14.194 ms  15.069 ms
+***********************
+PING e15317.e22.akamaiedge.net (104.78.191.241): 56 data bytes
+Request timeout for icmp_seq 0
+64 bytes from 104.78.191.241: icmp_seq=1 ttl=56 time=18.427 ms
+64 bytes from 104.78.191.241: icmp_seq=2 ttl=56 time=13.602 ms
+64 bytes from 104.78.191.241: icmp_seq=3 ttl=56 time=15.887 ms
+64 bytes from 104.78.191.241: icmp_seq=4 ttl=56 time=13.924 ms
+64 bytes from 104.78.191.241: icmp_seq=5 ttl=56 time=17.146 ms
+64 bytes from 104.78.191.241: icmp_seq=6 ttl=56 time=14.372 ms
+64 bytes from 104.78.191.241: icmp_seq=7 ttl=56 time=19.597 ms
+64 bytes from 104.78.191.241: icmp_seq=8 ttl=56 time=17.304 ms
+64 bytes from 104.78.191.241: icmp_seq=9 ttl=56 time=16.518 ms
+
+--- e15317.e22.akamaiedge.net ping statistics ---
+10 packets transmitted, 9 packets received, 10.0% packet loss
+round-trip min/avg/max/stddev = 13.602/16.309/19.597/1.943 ms
+***********************
+    time_namelookup:  0.005205s
+       time_connect:  0.022590s
+    time_appconnect:  0.074009s
+   time_pretransfer:  0.074161s
+      time_redirect:  0.000000s
+ time_starttransfer:  0.277505s
+                    ----------
+         time_total:  0.277627s
+#######################
+    time_namelookup:  0.004189s
+       time_connect:  0.022038s
+    time_appconnect:  0.078834s
+   time_pretransfer:  0.078972s
+      time_redirect:  0.000000s
+ time_starttransfer:  0.301238s
+                    ----------
+         time_total:  0.301373s
+#######################
+    time_namelookup:  0.005218s
+       time_connect:  0.020763s
+    time_appconnect:  0.084753s
+   time_pretransfer:  0.084888s
+      time_redirect:  0.000000s
+ time_starttransfer:  0.256795s
+                    ----------
+         time_total:  0.256871s
+#######################
+***********************
+ 1  192.168.0.1 (192.168.0.1)  0.730 ms  0.451 ms  0.412 ms
+ 2  cpe-67-245-144-1.nyc.res.rr.com (67.245.144.1)  11.788 ms  15.038 ms  17.680 ms
+ 3  68.173.197.188 (68.173.197.188)  5.876 ms  5.984 ms  8.756 ms
+ 4  68.173.197.182 (68.173.197.182)  27.686 ms  15.862 ms  15.407 ms
+ 5  bu-ether19.nwrknjmd67w-bcr00.tbone.rr.com (66.109.6.78)  24.539 ms  29.229 ms  23.753 ms
+ 6  66.109.5.138 (66.109.5.138)  24.311 ms  19.337 ms  21.378 ms
+ 7  66.109.5.119 (66.109.5.119)  27.830 ms  16.078 ms  15.625 ms
+ 8  24.30.200.39 (24.30.200.39)  16.439 ms  18.807 ms  18.933 ms
+ 9  ae2.coresite-ewr3.netarch.akamai.com (23.203.156.177)  29.750 ms  28.625 ms  32.745 ms
+10  a104-78-191-241.deploy.static.akamaitechnologies.com (104.78.191.241)  16.953 ms  16.123 ms  14.938 ms
+***********************
+PING e15317.e22.akamaiedge.net (104.78.191.241): 56 data bytes
+64 bytes from 104.78.191.241: icmp_seq=0 ttl=56 time=13.636 ms
+64 bytes from 104.78.191.241: icmp_seq=1 ttl=56 time=13.634 ms
+64 bytes from 104.78.191.241: icmp_seq=2 ttl=56 time=13.627 ms
+64 bytes from 104.78.191.241: icmp_seq=3 ttl=56 time=16.453 ms
+64 bytes from 104.78.191.241: icmp_seq=4 ttl=56 time=16.472 ms
+64 bytes from 104.78.191.241: icmp_seq=5 ttl=56 time=12.316 ms
+64 bytes from 104.78.191.241: icmp_seq=6 ttl=56 time=23.449 ms
+64 bytes from 104.78.191.241: icmp_seq=7 ttl=56 time=13.408 ms
+64 bytes from 104.78.191.241: icmp_seq=8 ttl=56 time=19.786 ms
+64 bytes from 104.78.191.241: icmp_seq=9 ttl=56 time=10.099 ms
+
+--- e15317.e22.akamaiedge.net ping statistics ---
+10 packets transmitted, 10 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 10.099/15.288/23.449/3.703 ms
+=====================================================
+ 1  192.168.0.1 (192.168.0.1)  1.097 ms  0.430 ms  0.435 ms
+ 2  * cpe-67-245-144-1.nyc.res.rr.com (67.245.144.1)  58.849 ms  14.937 ms
+ 3  68.173.197.188 (68.173.197.188)  11.666 ms  15.552 ms  17.631 ms
+ 4  68.173.197.182 (68.173.197.182)  23.440 ms  14.919 ms  23.563 ms
+ 5  bu-ether29.nwrknjmd67w-bcr00.tbone.rr.com (107.14.19.24)  22.409 ms  23.204 ms  23.689 ms
+ 6  * * *
+ 7  * * *
+ 8  unknown.level3.net (212.187.139.230)  93.213 ms  94.341 ms  87.089 ms
+ 9  * * *
+10  * * *
+11  * * *
+12  ae2.er02.lbh.bbc.co.uk (132.185.249.9)  88.931 ms  86.731 ms  101.882 ms
+13  132.185.252.130 (132.185.252.130)  110.619 ms  105.476 ms  105.830 ms
+14  212.58.234.3 (212.58.234.3)  99.096 ms  90.034 ms  84.840 ms
+15  212.58.233.253 (212.58.233.253)  92.247 ms  90.260 ms  92.794 ms
+***********************
+PING www.bbc.net.uk (212.58.233.254): 56 data bytes
+Request timeout for icmp_seq 0
+64 bytes from 212.58.233.254: icmp_seq=1 ttl=49 time=89.882 ms
+64 bytes from 212.58.233.254: icmp_seq=2 ttl=49 time=86.287 ms
+64 bytes from 212.58.233.254: icmp_seq=3 ttl=49 time=89.463 ms
+64 bytes from 212.58.233.254: icmp_seq=4 ttl=49 time=113.409 ms
+64 bytes from 212.58.233.254: icmp_seq=5 ttl=49 time=91.707 ms
+64 bytes from 212.58.233.254: icmp_seq=6 ttl=49 time=90.212 ms
+64 bytes from 212.58.233.254: icmp_seq=7 ttl=49 time=86.552 ms
+64 bytes from 212.58.233.254: icmp_seq=8 ttl=49 time=88.788 ms
+64 bytes from 212.58.233.254: icmp_seq=9 ttl=49 time=88.860 ms
+
+--- www.bbc.net.uk ping statistics ---
+10 packets transmitted, 9 packets received, 10.0% packet loss
+round-trip min/avg/max/stddev = 86.287/91.684/113.409/7.847 ms
+***********************
+    time_namelookup:  0.005229s
+       time_connect:  0.098906s
+    time_appconnect:  0.291177s
+   time_pretransfer:  0.291331s
+      time_redirect:  0.000000s
+ time_starttransfer:  0.621928s
+                    ----------
+         time_total:  0.900250s
+#######################
+    time_namelookup:  0.004275s
+       time_connect:  1.094940s
+    time_appconnect:  1.291021s
+   time_pretransfer:  1.291181s
+      time_redirect:  0.000000s
+ time_starttransfer:  1.565245s
+                    ----------
+         time_total:  1.837604s
+#######################
+    time_namelookup:  0.005234s
+       time_connect:  0.101762s
+    time_appconnect:  0.309931s
+   time_pretransfer:  0.310098s
+      time_redirect:  0.000000s
+ time_starttransfer:  0.410941s
+                    ----------
+         time_total:  0.674881s
+#######################
+***********************
+ 1  192.168.0.1 (192.168.0.1)  0.841 ms  0.444 ms  0.368 ms
+ 2  cpe-67-245-144-1.nyc.res.rr.com (67.245.144.1)  20.627 ms  14.194 ms  12.955 ms
+ 3  68.173.197.190 (68.173.197.190)  14.413 ms  26.274 ms  17.818 ms
+ 4  68.173.199.162 (68.173.199.162)  12.209 ms  24.014 ms  15.517 ms
+ 5  bu-ether15.nycmny837aw-bcr00.tbone.rr.com (66.109.6.76)  17.302 ms  15.370 ms  23.902 ms
+ 6  bu-ether11.nwrknjmd67w-bcr00.tbone.rr.com (66.109.6.26)  22.645 ms  15.353 ms  23.746 ms
+ 7  * * *
+ 8  * * *
+ 9  unknown.level3.net (212.187.139.230)  89.412 ms  93.463 ms  92.010 ms
+10  * * *
+11  * * *
+12  * * *
+13  ae2.er01.lbh.bbc.co.uk (132.185.249.7)  90.087 ms  86.548 ms  89.483 ms
+14  132.185.252.126 (132.185.252.126)  456.053 ms  467.701 ms  415.960 ms
+15  212.58.234.3 (212.58.234.3)  88.851 ms  86.990 ms  85.619 ms
+16  212.58.233.254 (212.58.233.254)  95.946 ms  99.392 ms  111.788 ms
+***********************
+PING www.bbc.net.uk (212.58.233.252): 56 data bytes
+Request timeout for icmp_seq 0
+64 bytes from 212.58.233.252: icmp_seq=1 ttl=49 time=88.698 ms
+64 bytes from 212.58.233.252: icmp_seq=2 ttl=49 time=92.322 ms
+64 bytes from 212.58.233.252: icmp_seq=3 ttl=49 time=87.470 ms
+64 bytes from 212.58.233.252: icmp_seq=4 ttl=49 time=88.169 ms
+64 bytes from 212.58.233.252: icmp_seq=5 ttl=49 time=90.502 ms
+64 bytes from 212.58.233.252: icmp_seq=6 ttl=49 time=89.033 ms
+64 bytes from 212.58.233.252: icmp_seq=7 ttl=49 time=87.487 ms
+64 bytes from 212.58.233.252: icmp_seq=8 ttl=49 time=88.412 ms
+64 bytes from 212.58.233.252: icmp_seq=9 ttl=49 time=86.342 ms
+
+--- www.bbc.net.uk ping statistics ---
+10 packets transmitted, 9 packets received, 10.0% packet loss
+round-trip min/avg/max/stddev = 86.342/88.715/92.322/1.679 ms
